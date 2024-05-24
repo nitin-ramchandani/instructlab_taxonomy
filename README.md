@@ -13,7 +13,7 @@
   - [Ways to contribute](#ways-to-contribute)
   - [How to contribute skills and knowledge](#how-to-contribute-skills-and-knowledge)
 
-## Welcome to the InstructLab Taxonomy Repo
+## Welcome to the InstructLab Taxonomy
 
 InstructLab 🐶 uses a novel synthetic data-based alignment tuning method for
 Large Language Models (LLMs.) The "**lab**" in Instruct**Lab** 🐶 stands for
