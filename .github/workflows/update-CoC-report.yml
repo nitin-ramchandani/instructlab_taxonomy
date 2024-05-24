@@ -37,5 +37,6 @@ jobs:
         env:
           REPOSITORY_OWNER: ${{ github.repository_owner }}
           REPOSITORY_NAME: ${{ github.event.repository.name }}
+          PULL_REQUEST_NUMBER: ${{ github.event.pull_request.number}}
           IS_MERGED: ${{ github.event.pull_request.merged }}
           ANALYSIS_TOKEN: ${{ secrets.COC_ANALYSIS_TOKEN }}
