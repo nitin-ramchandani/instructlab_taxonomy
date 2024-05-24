@@ -1,5 +1,7 @@
 # InstructLab 🐶 Taxonomy
 
+
+
 ## Contents 📖
 
 - [Welcome to the InstructLab Taxonomy](#welcome-to-the-instructlab-taxonomy)
